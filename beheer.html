@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="nl"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow">
+<title>Websitebeheer · Aphonia Gent</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css"><script src="assets/js/beheer.js" defer></script>
+
+<style>
+  #beheer-lock {
+    position: fixed;
+    inset: 0;
+    z-index: 99999;
+    display: grid;
+    place-items: center;
+    padding: 20px;
+    background:
+      radial-gradient(circle at 12% 18%, rgba(197,29,52,.16), transparent 16rem),
+      radial-gradient(circle at 88% 82%, rgba(244,196,48,.28), transparent 18rem),
+      #fffdf8;
+  }
+  #beheer-lock[hidden] { display: none !important; }
+  .beheer-lock-card {
+    width: min(100%, 430px);
+    background: #fffdf8;
+    border: 3px solid #161616;
+    padding: clamp(24px, 6vw, 40px);
+    box-shadow: 10px 10px 0 #f4c430, 16px 16px 0 #c51d34;
+  }
+  .beheer-lock-card .lock-kicker {
+    display: inline-block;
+    margin: 0 0 12px;
+    padding: 5px 8px;
+    background: #f4c430;
+    border: 2px solid #161616;
+    font-weight: 900;
+    font-size: .72rem;
+    letter-spacing: .1em;
+  }
+  .beheer-lock-card h1 {
+    margin: 0 0 10px;
+    font-size: clamp(2rem, 10vw, 3.4rem);
+    line-height: .9;
+    overflow-wrap: normal;
+  }
+  .beheer-lock-card p { margin: 0 0 18px; }
+  .beheer-lock-card label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 900;
+  }
+  .beheer-lock-card input {
+    box-sizing: border-box;
+    width: 100%;
+    min-width: 0;
+    padding: 13px 14px;
+    border: 2px solid #161616;
+    background: #fff;
+    font: inherit;
+  }
+  .beheer-lock-card button {
+    width: 100%;
+    margin-top: 12px;
+    padding: 13px 16px;
+    border: 2px solid #161616;
+    background: #c51d34;
+    color: #fff;
+    font: inherit;
+    font-weight: 900;
+    cursor: pointer;
+    box-shadow: 4px 4px 0 #f4c430;
+  }
+  #beheer-lock-error {
+    min-height: 1.3em;
+    margin: 10px 0 0;
+    color: #c51d34;
+    font-weight: 800;
+  }
+  body.beheer-locked > :not(#beheer-lock) {
+    visibility: hidden !important;
+  }
+</style>
+
+</head><body class="manage-page">
+
+<div id="beheer-lock" role="dialog" aria-modal="true" aria-labelledby="beheer-lock-title">
+  <form class="beheer-lock-card" id="beheer-lock-form">
+    <p class="lock-kicker">APHONIA · BEHEER</p>
+    <h1 id="beheer-lock-title">WACHTWOORD</h1>
+    <p>Vul het beheerderswachtwoord in om verder te gaan.</p>
+    <label for="beheer-password">Wachtwoord</label>
+    <input id="beheer-password" type="password" autocomplete="current-password" required autofocus>
+    <button type="submit">Open beheer</button>
+    <p id="beheer-lock-error" role="alert" aria-live="polite"></p>
+  </form>
+</div>
+
+<main class="manage-main"><div class="shell">
+<section class="manage-hero"><p class="section-kicker">APHONIA WEBSITEBEHEER</p><h1>INHOUD<br><span>AANPASSEN.</span></h1>
+<div class="manage-note"><strong>Geen code nodig.</strong> Pas hieronder de velden aan. Download daarna de databestanden en vervang ze in de map <code>content/</code> van de GitHub-repository. GitHub Pages verwerkt de nieuwe inhoud automatisch.</div></section>
+<div class="manage-tabs" role="tablist"><button class="manage-tab active" data-panel="activities">Activiteiten</button><button class="manage-tab" data-panel="current">Huidig praesidium</button><button class="manage-tab" data-panel="previous">Pro-praesidia</button></div>
+<section class="manage-panel" id="panel-activities"><div class="manage-toolbar"><strong>Activiteiten</strong><button class="manage-btn add" id="add-activity">+ Activiteit</button></div><div class="manage-list" id="manage-activities"></div></section>
+<section class="manage-panel" id="panel-current" hidden><div class="manage-toolbar"><strong>Huidig praesidium</strong><button class="manage-btn add" id="add-current">+ Praesidiumlid</button></div><div class="manage-list" id="manage-current"></div></section>
+<section class="manage-panel" id="panel-previous" hidden><div class="manage-toolbar"><strong>Pro-praesidia</strong><button class="manage-btn add" id="add-year">+ Jaar toevoegen</button></div><div class="manage-list" id="manage-previous"></div></section>
+<div class="manage-downloads"><button class="btn btn-yellow" id="download-activities">Download activiteiten.json</button><button class="btn btn-red" id="download-praesidium">Download praesidium.json</button></div>
+<section class="manage-help"><h2>Publiceren op GitHub Pages</h2><ol><li>Klik onderaan op beide downloadknoppen.</li><li>Open de GitHub-repository van de website en ga naar de map <strong>content</strong>.</li><li>Vervang <code>activiteiten.json</code> en/of <code>praesidium.json</code> door de nieuwe bestanden en commit de wijziging.</li><li>Na de GitHub Pages-deploy staat de wijziging online. Je hoeft geen HTML, CSS of JavaScript te wijzigen.</li></ol><p><strong>Foto’s:</strong> bij een praesidiumlid of vorig jaar mag je een volledige https-link invullen, of een pad zoals <code>assets/img/huidig/praesidium-2026.jpg</code> wanneer de foto in de repository staat.</p></section>
+</div></main>
+<script>
+(() => {
+  // GitHub Pages is volledig statisch. Dit is daarom een client-side toegangspoort,
+  // geen server-side beveiliging. Wijzig enkel deze hash om het wachtwoord te veranderen.
+  const PASSWORD_SHA256 = "27061cc1c9ea29767caf659b91bbace7ec6e6c90b783afc8184c08e34193bc97";
+  const SESSION_KEY = "aphonia_beheer_unlocked";
+
+  const lock = document.getElementById("beheer-lock");
+  const form = document.getElementById("beheer-lock-form");
+  const input = document.getElementById("beheer-password");
+  const error = document.getElementById("beheer-lock-error");
+
+  const sha256 = async (value) => {
+    const bytes = new TextEncoder().encode(value);
+    const digest = await crypto.subtle.digest("SHA-256", bytes);
+    return Array.from(new Uint8Array(digest))
+      .map(b => b.toString(16).padStart(2, "0"))
+      .join("");
+  };
+
+  const unlock = () => {
+    document.body.classList.remove("beheer-locked");
+    lock.hidden = true;
+    sessionStorage.setItem(SESSION_KEY, "1");
+  };
+
+  if (sessionStorage.getItem(SESSION_KEY) === "1") {
+    unlock();
+  } else {
+    document.body.classList.add("beheer-locked");
+    requestAnimationFrame(() => input.focus());
+  }
+
+  form.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    error.textContent = "";
+    const hash = await sha256(input.value);
+    if (hash === PASSWORD_SHA256) {
+      input.value = "";
+      unlock();
+    } else {
+      error.textContent = "Verkeerd wachtwoord.";
+      input.select();
+    }
+  });
+})();
+</script>
+
+</body></html>

@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#b7122a">
+  <meta name="description" content="Bekijk de activiteiten van Aphonia Gent.">
+  <meta name="robots" content="index,follow">
+  <title>Activiteiten · Aphonia Gent</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="assets/js/content-loader.js" defer></script>
+  <script src="assets/js/script.js" defer></script>
+</head>
+<body data-page="activiteiten">
+<a class="skip-link" href="#main">Naar inhoud</a>
+<header class="site-header">
+  <div class="shell nav-shell">
+    <a class="brand" href="index.html" aria-label="Aphonia Gent home">
+      <img src="assets/img/homepage/schild.png" alt="Schild Aphonia Gent" width="64" height="48">
+      <span class="brand-copy"><strong>APHONIA</strong><small>GENT · HOGENT VESALIUS</small></span>
+    </a>
+    <button class="menu-toggle" type="button" aria-label="Menu openen" aria-expanded="false" aria-controls="main-nav"><span></span><span></span><span></span></button>
+    <nav class="main-nav" id="main-nav" aria-label="Hoofdnavigatie">
+      <a data-nav="home" href="index.html">Home</a>
+      <a data-nav="over" href="over-ons.html">Over ons</a>
+      <a data-nav="activiteiten" href="activiteiten.html">Activiteiten</a>
+      <a data-nav="clubcafe" href="clubcafe.html">Clubcafé</a>
+      <a data-nav="schachten" href="schachten.html">Schachten</a>
+      <a data-nav="praesidium" href="praesidium.html">Praesidium</a>
+      <a data-nav="contact" class="nav-cta" href="contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<section class="page-hero yellow-page"><div class="shell"><p class="eyebrow dark">ACTIVITEITEN</p><h1>OP DE<br><span>PLANNING.</span></h1><p class="page-intro dark-copy">Clubavonden, activiteiten, cantussen en sport. Hier zie je wat we samen doen.</p></div></section>
+<section class="section"><div class="shell"><div class="filters" role="group" aria-label="Filter activiteiten"><button class="filter active" data-filter="all" aria-pressed="true">Alles</button><button class="filter" data-filter="cantus" aria-pressed="false">Cantus</button><button class="filter" data-filter="avond" aria-pressed="false">Avond</button><button class="filter" data-filter="sport" aria-pressed="false">Sport & activiteit</button></div>
+<div class="activity-list" id="activity-list" data-content-source="content/activiteiten.json">
+<article data-category="sport"><time>29/09</time><h2>Kajak</h2><span>Sport & activiteit</span></article>
+<article data-category="avond"><time>02/10</time><h2>Avond der vaten</h2><span>Avond</span></article>
+<article data-category="sport"><time>09/10</time><h2>Park en spel</h2><span>Sport & activiteit</span></article>
+<article data-category="avond"><time>16/10</time><h2>Karaoke avond</h2><span>Avond</span></article>
+<article data-category="cantus"><time>23/10</time><h2>Doop + doopcantus</h2><span>Cantus</span></article>
+<article data-category="avond"><time>30/10</time><h2>Openingsreceptie 1.0</h2><span>Avond</span></article>
+<article data-category="cantus"><time>31/10</time><h2>Nadoop + Halloweencantus</h2><span>Met Pi-Nuts</span></article>
+<article data-category="sport"><time>13/11</time><h2>Gravensteenfeesten</h2><span>Activiteit</span></article>
+<article data-category="avond"><time>18/11</time><h2>Mario Kart avond</h2><span>Avond</span></article>
+<article data-category="avond"><time>20/11</time><h2>Cocktail avond</h2><span>Avond</span></article>
+<article data-category="cantus"><time>23/11</time><h2>Vriendjes- & familiecantus</h2><span>Cantus</span></article>
+<article data-category="avond"><time>27/11</time><h2>Shotjes avond</h2><span>Avond</span></article>
+<article data-category="sport"><time>10/12</time><h2>Schaatsen</h2><span>Sport & activiteit</span></article>
+<article data-category="cantus"><time>11/12</time><h2>Massacantus</h2><span>Cantus</span></article>
+<article data-category="avond"><time>18/12</time><h2>Secret Santa</h2><span>Avond</span></article>
+</div>
+<div class="notice"><b>Meer dan de kalender.</b><p>Doorheen het jaar organiseren we ook onder meer de Verpleegsterkescocktailavond, het Lustrumgala der Paramedici, sportactiviteiten en een ledenweekend.</p></div>
+</div></section>
+</main>
+<footer class="site-footer">
+  <div class="shell footer-grid">
+    <div>
+      <a class="footer-brand" href="index.html"><img src="assets/img/homepage/schild.png" alt="" width="52" height="39"><strong>APHONIA GENT</strong></a>
+      <p>Studentenclub van HOGENT Campus Vesalius.</p>
+    </div>
+    <div class="footer-links"><strong>Ontdek</strong><a href="over-ons.html">Over ons</a><a href="activiteiten.html">Activiteiten</a><a href="schachten.html">Schachten & doop</a></div>
+    <div class="footer-links"><strong>Vind ons</strong><a href="clubcafe.html">Café Confrater</a><a href="https://www.instagram.com/studentenclubaphonia/" target="_blank" rel="noopener">Instagram ↗</a><a href="contact.html">Contact</a></div>
+  </div>
+  <div class="shell footer-bottom"><span>© <span id="year"></span> Aphonia Gent</span><span>Rood · Geel · Vesalius</span></div>
+</footer>
+</body>
+</html>

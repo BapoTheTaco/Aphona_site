@@ -1,0 +1,94 @@
+{
+  "activities": [
+    {
+      "date": "29/09",
+      "title": "Kajak",
+      "category": "sport",
+      "label": "Sport & activiteit"
+    },
+    {
+      "date": "02/10",
+      "title": "Avond der vaten",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "09/10",
+      "title": "Park en spel",
+      "category": "sport",
+      "label": "Sport & activiteit"
+    },
+    {
+      "date": "16/10",
+      "title": "Karaoke avond",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "23/10",
+      "title": "Doop + doopcantus",
+      "category": "cantus",
+      "label": "Cantus"
+    },
+    {
+      "date": "30/10",
+      "title": "Openingsreceptie 1.0",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "31/10",
+      "title": "Nadoop + Halloweencantus",
+      "category": "cantus",
+      "label": "Met Pi-Nuts"
+    },
+    {
+      "date": "13/11",
+      "title": "Gravensteenfeesten",
+      "category": "sport",
+      "label": "Activiteit"
+    },
+    {
+      "date": "18/11",
+      "title": "Mario Kart avond",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "20/11",
+      "title": "Cocktail avond",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "23/11",
+      "title": "Vriendjes- & familiecantus",
+      "category": "cantus",
+      "label": "Cantus"
+    },
+    {
+      "date": "27/11",
+      "title": "Shotjes avond",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "10/12",
+      "title": "Schaatsen",
+      "category": "sport",
+      "label": "Sport & activiteit"
+    },
+    {
+      "date": "11/12",
+      "title": "Massacantus",
+      "category": "cantus",
+      "label": "Cantus"
+    },
+    {
+      "date": "18/12",
+      "title": "Secret Santa",
+      "category": "avond",
+      "label": "Avond"
+    }
+  ]
+}

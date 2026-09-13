@@ -1,0 +1,692 @@
+{
+  "current": [
+    {
+      "role": "PRAESES",
+      "name": "Birgit Dekens",
+      "study": "Logopedie",
+      "note": "Vorige functie: Cantor ’24–’25",
+      "photo": "",
+      "initials": "BD"
+    },
+    {
+      "role": "VICE-PRAESES",
+      "name": "Thomas Buisman",
+      "study": "Voedings- en dieetleer",
+      "note": "",
+      "photo": "",
+      "initials": "TB"
+    },
+    {
+      "role": "QUAESTOR",
+      "name": "Stien Cremmery",
+      "study": "Verpleegkunde",
+      "note": "",
+      "photo": "",
+      "initials": "SC"
+    },
+    {
+      "role": "SCHACHTENTEMMER",
+      "name": "Margaux Mathys",
+      "study": "Psychologie",
+      "note": "",
+      "photo": "",
+      "initials": "MM"
+    },
+    {
+      "role": "FEEST",
+      "name": "Yaro Detrez",
+      "study": "Ergotherapie",
+      "note": "",
+      "photo": "",
+      "initials": "YD"
+    },
+    {
+      "role": "P.R.",
+      "name": "Analies Johns Ramirez",
+      "study": "Sociaal werk",
+      "note": "",
+      "photo": "",
+      "initials": "AJ"
+    },
+    {
+      "role": "SPORT",
+      "name": "Luka Coppens",
+      "study": "Verpleegkunde",
+      "note": "",
+      "photo": "",
+      "initials": "LC"
+    }
+  ],
+  "previousYears": [
+    {
+      "year": "2024–2025",
+      "groupPhoto": "https://aphonia.be/wp-content/uploads/2026/02/groepsfoto-e1770569598442-uai-258x232.jpg",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Djamori Deschachte"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Thalia Beckers"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Bram Peelman"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "/"
+        },
+        {
+          "role": "Cantor",
+          "name": "Birgit Dekens"
+        },
+        {
+          "role": "Zeden",
+          "name": "/"
+        },
+        {
+          "role": "Feest",
+          "name": "Kiara Celie"
+        },
+        {
+          "role": "Sport",
+          "name": "Aline Fleurinck"
+        },
+        {
+          "role": "P.R.",
+          "name": "Yasmine Segers"
+        }
+      ]
+    },
+    {
+      "year": "2023–2024",
+      "groupPhoto": "https://aphonia.be/wp-content/uploads/2024/01/2023-2024-1-uai-258x250.jpg",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Sofie Coutteau"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Thalia Beckers"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Bram Peelman"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Djamori Deschachte"
+        },
+        {
+          "role": "Cantor",
+          "name": "Aline Verhoestrate"
+        },
+        {
+          "role": "Zeden",
+          "name": "/"
+        },
+        {
+          "role": "Feest",
+          "name": "Emma Ghijselinck"
+        },
+        {
+          "role": "Sport",
+          "name": "Eli Gaudeus"
+        },
+        {
+          "role": "P.R.",
+          "name": "Fleur Van Den Broucke"
+        }
+      ]
+    },
+    {
+      "year": "2022–2023",
+      "groupPhoto": "https://aphonia.be/wp-content/uploads/2024/10/Foto-tevje-uai-258x172.jpg",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Nicky Keppens"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Kayleigh Delforce"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Marthe Vanhoutte"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Phebe Moerman"
+        },
+        {
+          "role": "Cantor",
+          "name": "Cedric Vande Walle"
+        },
+        {
+          "role": "Zeden",
+          "name": "Margo Fleurbaey"
+        },
+        {
+          "role": "Feest",
+          "name": "Tevje Cnudde"
+        },
+        {
+          "role": "Sport",
+          "name": "July Verschatse"
+        },
+        {
+          "role": "P.R.",
+          "name": "Jan De Vylder"
+        }
+      ]
+    },
+    {
+      "year": "2021–2022",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Nicky Keppens"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "/"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Kayleigh Delforce"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Sofie Coutteau"
+        },
+        {
+          "role": "Cantor",
+          "name": "Cedric Vande Walle"
+        },
+        {
+          "role": "Zeden",
+          "name": "Nico Pijpers"
+        },
+        {
+          "role": "Feest",
+          "name": "Phebe Moerman"
+        },
+        {
+          "role": "Sport",
+          "name": "July Verschatse"
+        },
+        {
+          "role": "P.R.",
+          "name": "Jasper Minne"
+        }
+      ]
+    },
+    {
+      "year": "2020–2021",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Wouter Colombeen"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Vincent Detremmerie"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Nick Fauconnier"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Nicky Keppens"
+        },
+        {
+          "role": "Cantor",
+          "name": "/"
+        },
+        {
+          "role": "Zeden",
+          "name": "Ine Stuyck"
+        },
+        {
+          "role": "Feest",
+          "name": "Jytte De Taeye"
+        },
+        {
+          "role": "Sport",
+          "name": "Kyenta Geuns"
+        },
+        {
+          "role": "P.R.",
+          "name": "Tadzio Belderbos"
+        }
+      ]
+    },
+    {
+      "year": "2019–2020",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Tristan Van Huylenbroeck"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Wouter Colombeen"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Manau Moens"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Jonathan De Walsche"
+        },
+        {
+          "role": "Cantor",
+          "name": "/"
+        },
+        {
+          "role": "Zeden",
+          "name": "/"
+        },
+        {
+          "role": "Feest",
+          "name": "Axelle Cabbeke"
+        },
+        {
+          "role": "Sport",
+          "name": "Yermo De Bruyn"
+        },
+        {
+          "role": "P.R.",
+          "name": "/"
+        }
+      ]
+    },
+    {
+      "year": "2018–2019",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Katrien Decock"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "/"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Hanne De Boever"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Laura Bresseleers"
+        },
+        {
+          "role": "Cantor",
+          "name": "Chiel Lejaeghere"
+        },
+        {
+          "role": "Zeden",
+          "name": "Jeroen Leroy"
+        },
+        {
+          "role": "Feest",
+          "name": "Justien De Corte"
+        },
+        {
+          "role": "Sport",
+          "name": "Lena De Zeine"
+        },
+        {
+          "role": "P.R.",
+          "name": "Tristan Van Huylenbroeck"
+        }
+      ]
+    },
+    {
+      "year": "2017–2018",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Lore Van Hoecke"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Marie-Noëlle Vernemmen"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Laura Bresseleers"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Jochen van Herck"
+        },
+        {
+          "role": "Cantor",
+          "name": "Kristof Van Schoor"
+        },
+        {
+          "role": "Zeden",
+          "name": "Margaux Hiel"
+        },
+        {
+          "role": "Feest",
+          "name": "Margot Rodrigeus"
+        },
+        {
+          "role": "Sport",
+          "name": "Bert Van Osselaer"
+        },
+        {
+          "role": "P.R.",
+          "name": "Katrien Decock"
+        }
+      ]
+    },
+    {
+      "year": "2016–2017",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Angelo Rollé"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Norah Schuermans"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Matti Roos"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Lore Van Hoecke"
+        },
+        {
+          "role": "Cantor",
+          "name": "Kristof Van Schoor"
+        },
+        {
+          "role": "Zeden",
+          "name": "Marie-Noëlle Vernemmen"
+        },
+        {
+          "role": "Feest",
+          "name": "Jade Taelman"
+        },
+        {
+          "role": "Sport",
+          "name": "Colleen Van Troys"
+        },
+        {
+          "role": "P.R.",
+          "name": "Emilie De Cort"
+        }
+      ]
+    },
+    {
+      "year": "2015–2016",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Glenn Vergauwen"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Lore Van Hoecke"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Mayke Deprez"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Katrien Van Gijsel"
+        },
+        {
+          "role": "Cantor",
+          "name": "Lotte van Lembergen"
+        },
+        {
+          "role": "Zeden",
+          "name": "Jochen van Herck"
+        },
+        {
+          "role": "Feest",
+          "name": "Angelo Rollé"
+        },
+        {
+          "role": "Sport",
+          "name": "Hannah Van Dorpe"
+        },
+        {
+          "role": "P.R.",
+          "name": "Dries Baudu"
+        }
+      ]
+    },
+    {
+      "year": "2014–2015",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Norah Schuermans"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Glenn Vergauwen"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Shauni Breyne"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Andreas Boussery"
+        },
+        {
+          "role": "Cantor",
+          "name": "Stefanie Geeraerts"
+        },
+        {
+          "role": "Zeden",
+          "name": "Lore Van Hoecke"
+        },
+        {
+          "role": "Feest",
+          "name": "Angelo Rollé"
+        },
+        {
+          "role": "Sport",
+          "name": "Hannah Van Dorpe"
+        },
+        {
+          "role": "P.R.",
+          "name": "Katrien Van Gijsel"
+        }
+      ]
+    },
+    {
+      "year": "2013–2014",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Norah Schuermans"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Stefanie Theunynck"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Shauni Breyne"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Glenn Vergauwen"
+        },
+        {
+          "role": "Cantor",
+          "name": "Stefanie Geeraerts"
+        },
+        {
+          "role": "Zeden",
+          "name": "Timothy Aerts"
+        },
+        {
+          "role": "Feest",
+          "name": "Saartje Dhondt"
+        },
+        {
+          "role": "Sport",
+          "name": "Emmy Baert"
+        },
+        {
+          "role": "P.R.",
+          "name": "Stephanie Van Hoe"
+        }
+      ]
+    },
+    {
+      "year": "2012–2013",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Sofie Van Troyen"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Norah Schuermans"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Stephanie Theunynck"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Gertjan Veeckman"
+        },
+        {
+          "role": "Cantor",
+          "name": "Kjell Vandevijvere"
+        },
+        {
+          "role": "Zeden",
+          "name": "Stephanie Van Hoe"
+        },
+        {
+          "role": "Feest",
+          "name": "Josephine Horré"
+        },
+        {
+          "role": "Sport",
+          "name": "Glenn Caron"
+        },
+        {
+          "role": "P.R.",
+          "name": "Kevin De Jonghe"
+        }
+      ]
+    },
+    {
+      "year": "2010–2011",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Estelle Buelens"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Isis Vlaeminck"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Amy Yseb"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Tom Verkest"
+        },
+        {
+          "role": "Cantor",
+          "name": "Andy Vandenbulcke"
+        },
+        {
+          "role": "Zeden",
+          "name": "Karline Devos"
+        },
+        {
+          "role": "Feest",
+          "name": "Lyn Verbeken"
+        },
+        {
+          "role": "Sport",
+          "name": "Fleur Tytgat"
+        },
+        {
+          "role": "P.R.",
+          "name": "/"
+        }
+      ]
+    },
+    {
+      "year": "2009–2010",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Pieter Vergaert"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Estelle Buelens"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Marlies Geirnaert"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Elisa De Cockere"
+        },
+        {
+          "role": "Cantor",
+          "name": "Andy Vandenbulcke"
+        },
+        {
+          "role": "Zeden",
+          "name": "Machteld Leus"
+        },
+        {
+          "role": "Feest",
+          "name": "Isis Vlaeminck"
+        },
+        {
+          "role": "Sport",
+          "name": "/"
+        },
+        {
+          "role": "P.R.",
+          "name": "/"
+        }
+      ]
+    }
+  ]
+}
