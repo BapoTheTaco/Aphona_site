@@ -2,59 +2,43 @@
   "current": [
     {
       "role": "PRAESES",
+      "name": "Cisse Goemare",
+      "study": "Rechten",
+      "note": "",
+      "photo": "",
+      "initials": "CG"
+    },
+    {
+      "role": "SCHACHTENTEMMER",
+      "name": "Nele Dendauw",
+      "study": "Ergotherapie",
+      "note": "",
+      "photo": "",
+      "initials": "ND"
+    },
+    {
+      "role": "Cantor",
       "name": "Birgit Dekens",
       "study": "Logopedie",
-      "note": "Vorige functie: Cantor ’24–’25",
+      "note": "Vorige functie: Praeses '25-'26 & Cantor '24-'25",
       "photo": "",
       "initials": "BD"
     },
     {
-      "role": "VICE-PRAESES",
-      "name": "Thomas Buisman",
-      "study": "Voedings- en dieetleer",
-      "note": "",
-      "photo": "",
-      "initials": "TB"
-    },
-    {
-      "role": "QUAESTOR",
-      "name": "Stien Cremmery",
-      "study": "Verpleegkunde",
-      "note": "",
-      "photo": "",
-      "initials": "SC"
-    },
-    {
-      "role": "SCHACHTENTEMMER",
-      "name": "Margaux Mathys",
-      "study": "Psychologie",
-      "note": "",
-      "photo": "",
-      "initials": "MM"
-    },
-    {
       "role": "FEEST",
-      "name": "Yaro Detrez",
+      "name": "Elisa Mecon",
       "study": "Ergotherapie",
       "note": "",
       "photo": "",
-      "initials": "YD"
+      "initials": "EM"
     },
     {
-      "role": "P.R.",
-      "name": "Analies Johns Ramirez",
-      "study": "Sociaal werk",
-      "note": "",
-      "photo": "",
-      "initials": "AJ"
-    },
-    {
-      "role": "SPORT",
-      "name": "Luka Coppens",
+      "role": "Zeden",
+      "name": "Yasmine Segers",
       "study": "Verpleegkunde",
-      "note": "",
+      "note": "Vorige Aphonia functie: ",
       "photo": "",
-      "initials": "LC"
+      "initials": "YS"
     }
   ],
   "previousYears": [
