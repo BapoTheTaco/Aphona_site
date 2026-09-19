@@ -35,13 +35,43 @@
     {
       "role": "Zeden",
       "name": "Yasmine Segers",
-      "study": "Verpleegkunde",
-      "note": "Vorige Aphonia functie: ",
+      "study": "Logopedie",
+      "note": "Vorige Aphonia functie:  PR '24-'25",
       "photo": "",
       "initials": "YS"
     }
   ],
   "previousYears": [
+    {
+      "year": "2025–2026",
+      "groupPhoto": "",
+      "members": [
+        {
+          "role": "Praeses",
+          "name": "Birgit Dekens"
+        },
+        {
+          "role": "Vice-praeses",
+          "name": "Thomas Buisman"
+        },
+        {
+          "role": "Quaestor",
+          "name": "Stien Cremmery"
+        },
+        {
+          "role": "Schachtentemmer",
+          "name": "Magaux Matthys"
+        },
+        {
+          "role": "Feest",
+          "name": "Yaro Detrez"
+        },
+        {
+          "role": "Sport",
+          "name": "Luka Coppens"
+        }
+      ]
+    },
     {
       "year": "2024–2025",
       "groupPhoto": "https://aphonia.be/wp-content/uploads/2026/02/groepsfoto-e1770569598442-uai-258x232.jpg",
