@@ -1,94 +1,82 @@
 {
   "activities": [
     {
-      "date": "29/09",
+      "date": "16/09",
+      "title": "Eerste clubavond",
+      "category": "avond",
+      "label": "Avond"
+    },
+    {
+      "date": "19/09",
       "title": "Kajak",
       "category": "sport",
       "label": "Sport & activiteit"
     },
     {
-      "date": "02/10",
+      "date": "23/09",
+      "title": "Aphonia gaat Student kick-off",
+      "category": "avond",
+      "label": "Dag & avond activiteit"
+    },
+    {
+      "date": "30/09",
       "title": "Avond der vaten",
       "category": "avond",
-      "label": "Avond"
+      "label": "Ontmoetingsavond"
     },
     {
-      "date": "09/10",
-      "title": "Park en spel",
+      "date": "14/10",
+      "title": "Doop",
       "category": "sport",
-      "label": "Sport & activiteit"
+      "label": "Doop aansluitend met clubavond"
     },
     {
-      "date": "16/10",
-      "title": "Karaoke avond",
-      "category": "avond",
-      "label": "Avond"
-    },
-    {
-      "date": "23/10",
-      "title": "Doop + doopcantus",
+      "date": "15/10",
+      "title": "Doopcantus",
       "category": "cantus",
-      "label": "Cantus"
+      "label": ""
+    },
+    {
+      "date": "21/10",
+      "title": "Cocktailavond",
+      "category": "avond",
+      "label": "Verkoopavond"
     },
     {
       "date": "30/10",
-      "title": "Openingsreceptie 1.0",
-      "category": "avond",
-      "label": "Avond"
-    },
-    {
-      "date": "31/10",
       "title": "Nadoop + Halloweencantus",
       "category": "cantus",
-      "label": "Met Pi-Nuts"
+      "label": ""
     },
     {
-      "date": "13/11",
-      "title": "Gravensteenfeesten",
-      "category": "sport",
-      "label": "Activiteit"
+      "date": "04/11",
+      "title": "Themaclubavond",
+      "category": "avond",
+      "label": ""
     },
     {
       "date": "18/11",
-      "title": "Mario Kart avond",
+      "title": "Gravensteenfeesten",
       "category": "avond",
-      "label": "Avond"
+      "label": "Stoet met avondfeest"
     },
     {
-      "date": "20/11",
-      "title": "Cocktail avond",
+      "date": "25/11",
+      "title": "Shotjesavond",
       "category": "avond",
-      "label": "Avond"
+      "label": "Verkoopavond"
     },
     {
-      "date": "23/11",
-      "title": "Vriendjes- & familiecantus",
+      "date": "01/12",
+      "title": "Themacantus",
       "category": "cantus",
       "label": "Cantus"
     },
     {
-      "date": "27/11",
-      "title": "Shotjes avond",
-      "category": "avond",
-      "label": "Avond"
-    },
-    {
-      "date": "10/12",
+      "date": ".../...",
       "title": "Schaatsen",
       "category": "sport",
-      "label": "Sport & activiteit"
-    },
-    {
-      "date": "11/12",
-      "title": "Massacantus",
-      "category": "cantus",
-      "label": "Cantus"
-    },
-    {
-      "date": "18/12",
-      "title": "Secret Santa",
-      "category": "avond",
-      "label": "Avond"
+      "label": ""
     }
   ]
 }
